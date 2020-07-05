@@ -1,5 +1,7 @@
-This lesson is to demonstrate my understanding of CSS along with using GITHUB
+this lesson is designed to show understanding of CSS and Github
 
-At the end, I should have a completed clone of the Google frontpage. I will be using the Development tools within my browser to help me quickly setup the site
+I recreated the Google homepage without any functionality
+
+
 
 
