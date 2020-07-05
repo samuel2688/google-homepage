@@ -1,0 +1,64 @@
+nav  {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    
+  }
+  
+  li {
+    display: inline;
+    padding-right: 10px;
+  
+  }
+  
+  #top-left {
+    display: inline-flex;
+  }
+  
+  input {
+    
+    width: 400px;
+    border-radius: 15px;
+    height: 30px;
+  
+  }
+  
+  #searchbox {
+    padding-top: 50px;
+  }
+  
+  #searchbox, #middle, #buttons {
+    display: flex;
+    justify-content: center;
+  }
+  
+  #buttons {
+    display: flex;
+    padding-top: 50px;
+    width: 100%;
+    justify-content: center;
+  
+    margin-right: 10px;
+    
+  }
+  
+  button {
+    
+  }
+  
+  #bottomlink {
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+  }
+  
+  #button2 {
+    margin: 10px;
+    width: 100px;
+  }
+  
+  #button1 {
+    margin: 10px;
+    height: 40px;
+  }
