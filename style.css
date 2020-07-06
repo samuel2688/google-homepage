@@ -18,10 +18,11 @@ nav  {
   
   input {
     
-    width: 420px;
+    width: 500px;
     border-radius: 15px;
-    height: 35px;
+    height: 40px;
     border-width: thin;
+    border-color: #333;
   
   }
   
@@ -57,21 +58,12 @@ nav  {
   
   #button2 {
     margin: 13px;
-    width: 100px;
+    width: 115px;
     border:none;
   }
   
   #button1 {
     margin: 13px;
     height: 40px;
-    width: 100px;
-    border: none;
-  }
-
-  #button1:hover {
-      border:1px black;
-  }
-
-  #button2:hover {
-    border:1px black;
+    width: 115px;
 }
