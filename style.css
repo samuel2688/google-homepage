@@ -27,7 +27,7 @@ nav  {
   }
   
   #searchbox {
-    padding-top: 50px;
+    padding-top: 45px;
   }
   
   #searchbox, #middle, #buttons {
@@ -37,7 +37,7 @@ nav  {
   
   #buttons {
     display: flex;
-    padding-top: 50px;
+    padding-top: 45px;
     width: 100%;
     justify-content: center;
   
@@ -50,20 +50,18 @@ nav  {
     margin-top: 125px;
   }
   
-  #bottomlink {
-    display: flex;
-    justify-content: center;
-    padding-top: 20px;
-  }
+  
   
   #button2 {
-    margin: 13px;
+    margin: 8px;
     width: 125px;
+    background-color: #f2f2f2;
     
   }
   
   #button1 {
-    margin: 13px;
+    margin: 8px;
     height: 40px;
     width: 125px;
+    background-color: #f2f2f2;
 }
