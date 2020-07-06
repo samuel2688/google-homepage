@@ -45,7 +45,7 @@ nav  {
   
   #middle {
 
-    margin-top: 100px;
+    margin-top: 200px;
   }
   
   #bottomlink {
@@ -62,4 +62,5 @@ nav  {
   #button1 {
     margin: 10px;
     height: 40px;
+    width: 100px;
   }
