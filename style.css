@@ -18,9 +18,10 @@ nav  {
   
   input {
     
-    width: 400px;
+    width: 420px;
     border-radius: 15px;
-    height: 30px;
+    height: 35px;
+    border-width: thin;
   
   }
   
@@ -45,7 +46,7 @@ nav  {
   
   #middle {
 
-    margin-top: 200px;
+    margin-top: 125px;
   }
   
   #bottomlink {
@@ -55,12 +56,22 @@ nav  {
   }
   
   #button2 {
-    margin: 10px;
+    margin: 13px;
     width: 100px;
+    border:none;
   }
   
   #button1 {
-    margin: 10px;
+    margin: 13px;
     height: 40px;
     width: 100px;
+    border: none;
   }
+
+  #button1:hover {
+      border:1px black;
+  }
+
+  #button2:hover {
+    border:1px black;
+}
